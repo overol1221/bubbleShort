@@ -8,6 +8,7 @@ namespace Buble2
 {
     internal class Program
     {
+        int a;
         static void Main(string[] args)
         {
         }
